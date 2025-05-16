@@ -1,6 +1,6 @@
 [project]
 name = "lzhgripperwithforcesensor"
-version = "0.1.1"
+version = "0.1.3"
 description = "An async TCP client wrapper for controlling a gripper with force sensing and callback support."
 authors = [
     { name = "lzh", email = "zhhtdm@hotmail.com" }

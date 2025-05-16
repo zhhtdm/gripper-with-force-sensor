@@ -6,7 +6,7 @@
 ```python
 # Expample:
 
-form lzh_gripper_with_force_sensor import GripperWithForceSensor
+form lzhgripperwithforcesensor import GripperWithForceSensor
 
 GRIPPER_IP = '192.168.0.123'
 gripper = GripperWithForce_sensor(host=GRIPPER_IP)
